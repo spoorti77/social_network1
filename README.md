@@ -99,30 +99,9 @@ A Django REST Framework application for a social networking platform with featur
 
 ## Postman Collection
 
-You can import the Postman collection to easily test the API endpoints. Download the collection from Postman Collection and import it into Postman.
+You can import the Postman collection to easily test the API endpoints. Download the collection from Postman Collection (https://github.com/spoorti77/social_network1/blob/main/Social%20Network%20API.postman_collection.json) and import it into Postman.
 
-## Contributing
 
-Feel free to submit issues or pull requests to improve the project.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-### Instructions for Postman
-
-1. **Export Postman Collection:**
-   - Open Postman.
-   - Go to the "Collections" tab.
-   - Click on the collection you want to export.
-   - Click on the three dots (more options) next to the collection name.
-   - Choose "Export" and select the format (e.g., JSON).
-
-2. **Upload to GitHub or Share:**
-   - If you want to share the collection link, upload the exported JSON file to your repository or any file-sharing service and update the `URL_TO_YOUR_POSTMAN_COLLECTION` in the README.
-
-3. **Update README:**
-   - Replace `URL_TO_YOUR_POSTMAN_COLLECTION` with the actual URL or path where the Postman collection file is located.
-
-By following these steps, you can ensure that your README file is comprehensive and useful for others who want to use or contribute to your project.
