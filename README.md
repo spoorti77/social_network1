@@ -99,7 +99,7 @@ A Django REST Framework application for a social networking platform with featur
 
 ## Postman Collection
 
-You can import the Postman collection to easily test the API endpoints. Download the collection from [Postman Collection](URL_TO_YOUR_POSTMAN_COLLECTION) and import it into Postman.
+You can import the Postman collection to easily test the API endpoints. Download the collection from Postman Collection and import it into Postman.
 
 ## Contributing
 
